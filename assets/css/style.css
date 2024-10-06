@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'PressStart2P';
+    src: url("../fonts/PressStart2P-Regular.ttf");
+}
+
+main {
+    font-family: 'PressStart2P';
+    width: 98%;
+    margin: 0.5rem auto;
+}
+
+h1, img{
+    width: fit-content;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header {
+    text-align: center;
+}
